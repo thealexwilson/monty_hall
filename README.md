@@ -11,4 +11,4 @@ gem install rspec
 
 From command line run the line below:
 
-rspec E:\RubyMine\Projects\challenges\ncsa\monty_hall\monty_hall_spec.rb
+rspec ..\monty_hall\monty_hall_spec.rb
